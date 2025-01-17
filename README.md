@@ -1,4 +1,4 @@
-PowerShell Code to find Mouse Point
+# PowerShell Code to find Mouse Point
 
 ```powershell
 while ($true) {
